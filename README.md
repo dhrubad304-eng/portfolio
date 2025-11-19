@@ -2,6 +2,9 @@
 
 This is my personal portfolio website made using HTML, CSS, and JavaScript.
 
+## Preview
+![Portfolio Preview](https://github.com/dhrubad304-eng/portfolio/blob/7c374b9007b003ec1c1eb82a64325c5ab27dbd8b/portfolio_snapshot.png)
+
 ## Sections Included
 - Home
 - About
